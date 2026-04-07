@@ -66,19 +66,6 @@ The objective is to evaluate campaign effectiveness, identify inefficiencies, an
 
 ---
 
-## 📁 Project Structure
-
-marketing-campaign-analysis/
-│
-├── data/
-├── notebooks/
-├── sql/
-├── dashboard/
-├── images/
-└── README.md
-
----
-
 ## 🚀 Outcome
 This project demonstrates:
 - End-to-end data analysis workflow  
