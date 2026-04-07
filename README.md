@@ -44,7 +44,7 @@ The objective is to evaluate campaign effectiveness, identify inefficiencies, an
 
 ## 📊 Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
